@@ -1,0 +1,382 @@
+[
+  {
+    "image": "https://img.icons8.com/color/512/whatsapp--v1.png",
+    "title": "WhatsApp",
+    "companyName": "WhatsApp LLC",
+    "id": 1,
+    "description": "Simple. Reliable. Private messaging.",
+    "size": 78,
+    "reviews": "125M",
+    "ratingAvg": 4.3,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": "3.5M" },
+      { "name": "2 star", "count": "2.8M" },
+      { "name": "3 star", "count": "8.5M" },
+      { "name": "4 star", "count": "25M" },
+      { "name": "5 star", "count": "88M" }
+    ],
+    "details": "WhatsApp has revolutionized global communication by making instant messaging accessible and secure for billions of users worldwide. Built on a foundation of end-to-end encryption, the platform ensures that your private conversations, voice calls, and video chats remain completely confidential. Whether you're sharing important documents, precious family photos, or quick voice messages, WhatsApp maintains the integrity of your personal communications while providing crystal-clear audio and video quality even on slower internet connections.\n\nThe app's clean, intuitive interface makes staying connected with friends, family, and colleagues remarkably straightforward. You can create groups for everything from family reunions to work projects, with support for up to 512 participants in a single chat. The Status feature lets you share updates that disappear after 24 hours, similar to stories on other platforms, while broadcast lists enable you to send messages to multiple contacts without creating a group chat.\n\nBeyond basic messaging, WhatsApp continues to innovate with features like disappearing messages that automatically vanish after seven days, payment integration in supported countries, and multi-device capability that lets you use WhatsApp on up to four linked devices even when your phone is offline. The platform's commitment to privacy extends to options like two-step verification, controlling who can see your personal information, and the ability to block unwanted contacts effortlessly.\n\nWhatsApp's widespread adoption across 180+ countries makes it an essential tool for both personal and professional communication. From small business owners using WhatsApp Business to connect with customers to families separated by continents staying in touch through video calls, the app has become deeply integrated into daily life for people around the world, proving that reliable, secure communication can indeed be simple and accessible to everyone."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/instagram-new--v1.png",
+    "title": "Instagram",
+    "companyName": "Instagram Inc.",
+    "id": 2,
+    "description": "Connect with friends and share your life",
+    "size": 92,
+    "reviews": "98M",
+    "ratingAvg": 4.1,
+    "downloads": "4B+",
+    "ratings": [
+      { "name": "1 star", "count": "4.2M" },
+      { "name": "2 star", "count": "3.1M" },
+      { "name": "3 star", "count": "12M" },
+      { "name": "4 star", "count": "28M" },
+      { "name": "5 star", "count": "55M" }
+    ],
+    "details": "Instagram has evolved from a simple photo-sharing app into a comprehensive visual storytelling platform that connects over a billion users through shared interests and creative expression. At its core, Instagram empowers users to capture life's moments through photos and short videos, applying artistic filters and editing tools to transform everyday scenes into compelling visual narratives. The platform's algorithmic feed intelligently curates content based on your interactions, ensuring you discover new creators, trends, and communities that align with your passions and interests.\n\nThe introduction of Reels has transformed how users create and consume content, offering a TikTok-like experience for short-form video entertainment, tutorials, and creative expression. Meanwhile, Stories provide a casual way to share daily moments that disappear after 24 hours, fostering more authentic connections between users and their followers. Instagram Live enables real-time interaction, allowing creators to host Q&A sessions, virtual events, and collaborative broadcasts with other users, creating dynamic engagement opportunities.\n\nBeyond social connection, Instagram has become a powerful platform for businesses, artists, and creators to build their brands and reach global audiences. The shopping features allow businesses to tag products in posts and stories, creating a seamless path from discovery to purchase. Professional tools provide valuable insights into audience demographics and content performance, while advertising options help businesses target specific user segments with precision.\n\nAs Instagram continues to innovate, it maintains its position at the forefront of digital culture, influencing everything from fashion and travel to social activism and entrepreneurship. The platform's commitment to evolving with user needs while maintaining its visual-first philosophy ensures it remains an essential space for creative expression, community building, and cultural conversation in our increasingly digital world."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/telegram-app--v1.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 3,
+    "description": "Fast and secure messaging app",
+    "size": 65,
+    "reviews": "45M",
+    "ratingAvg": 4.5,
+    "downloads": "3B+",
+    "ratings": [
+      { "name": "1 star", "count": "800K" },
+      { "name": "2 star", "count": "600K" },
+      { "name": "3 star", "count": "3M" },
+      { "name": "4 star", "count": "12M" },
+      { "name": "5 star", "count": "29M" }
+    ],
+    "details": "Telegram stands out in the crowded messaging space by combining blazing-fast performance with robust security features and unprecedented flexibility. Built on a custom MTProto protocol, Telegram delivers messages faster than any competing platform, with cloud-based architecture ensuring your conversations are seamlessly synchronized across all your devices. The platform's commitment to privacy is evident in its optional end-to-end encrypted Secret Chats, which offer self-destructing messages, prevent forwarding, and leave no trace on Telegram's servers.\n\nWhat truly sets Telegram apart is its extraordinary scalability and feature set. Groups can accommodate up to 200,000 members, functioning as vibrant communities with sophisticated moderation tools, granular permissions, and announcement channels. Broadcast channels allow creators, news organizations, and businesses to reach unlimited audiences with important updates, while maintaining two-way communication through linked discussion groups. The platform's file-sharing capabilities are equally impressive, supporting files up to 2GB in size—far exceeding limits imposed by other messaging apps.\n\nTelegram's open API and bot platform have fostered an ecosystem of third-party integrations that extend the app's functionality far beyond basic messaging. Users can employ bots for everything from weather updates and language translation to complex workflow automation and games. The platform's theme engine allows complete customization of the interface, while features like scheduled messages, extensive sticker collections, and powerful search functionality enhance the user experience.\n\nAs digital privacy concerns grow, Telegram's commitment to transparency and user control has attracted millions of users seeking alternatives to more mainstream platforms. Regular security audits, open-source clients, and a clear privacy policy reinforce Telegram's position as a trusted platform for secure communication. Whether used for personal chats, professional collaboration, or community building, Telegram delivers a powerful, flexible messaging experience that puts user control and privacy at the forefront."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 4,
+    "description": "Watch TV shows & movies anytime",
+    "size": 87,
+    "reviews": "68M",
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "1.5M" },
+      { "name": "2 star", "count": "1.2M" },
+      { "name": "3 star", "count": "6M" },
+      { "name": "4 star", "count": "18M" },
+      { "name": "5 star", "count": "42M" }
+    ],
+    "details": "Netflix has fundamentally transformed the entertainment landscape, evolving from a DVD rental service to the world's leading streaming platform that redefined how we consume television and movies. With an extensive library spanning thousands of titles across every genre imaginable, Netflix offers something for every mood and preference. The platform's sophisticated recommendation algorithm analyzes your viewing habits to surface content tailored to your tastes, constantly introducing you to new shows and films you're likely to enjoy while helping you navigate the vast catalog.\n\nThe company's commitment to original programming has yielded award-winning content that rivals traditional studio productions. From groundbreaking series like 'Stranger Things' and 'The Crown' to critically acclaimed films that challenge theatrical release windows, Netflix Originals have garnered numerous Emmy Awards, Oscars, and Golden Globes. This investment in diverse storytelling has given voice to creators from around the world, resulting in international hits that cross cultural boundaries and introduce global audiences to new perspectives.\n\nNetflix's user experience prioritizes convenience and personalization across all devices. The download feature allows subscribers to watch content offline during travel or commutes, while multiple profiles within a single account ensure personalized recommendations for each family member. Parental controls, customizable subtitles, and audio descriptions make content accessible to diverse audiences, reflecting Netflix's commitment to inclusive entertainment.\n\nAs the streaming wars intensify, Netflix continues to innovate with interactive specials like 'Black Mirror: Bandersnatch,' which let viewers shape the narrative, and live streaming capabilities for special events. The platform's global reach and data-driven approach to content creation have made it not just an entertainment service, but a cultural force that influences viewing habits, sparks global conversations, and continues to push the boundaries of what's possible in digital storytelling."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/spotify--v1.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 5,
+    "description": "Music and podcasts streaming",
+    "size": 95,
+    "reviews": "89M",
+    "ratingAvg": 4.7,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": "1.2M" },
+      { "name": "2 star", "count": "900K" },
+      { "name": "3 star", "count": "5M" },
+      { "name": "4 star", "count": "20M" },
+      { "name": "5 star", "count": "65M" }
+    ],
+    "details": "Spotify has revolutionized how we discover, stream, and share audio content, transforming from a music streaming service into a comprehensive audio platform that caters to diverse listening preferences. With access to over 80 million tracks and 4 million podcast titles, Spotify offers an unparalleled library of audio content spanning every genre, era, and mood. The platform's sophisticated algorithms analyze your listening habits to create personalized playlists like Discover Weekly and Release Radar, introducing you to new artists and songs that align with your musical taste while helping you rediscover forgotten favorites.\n\nThe app's user experience is designed for seamless audio enjoyment across all devices. Spotify Connect allows you to transition playback between your phone, computer, smart speakers, and gaming consoles without interruption. The download feature enables offline listening for premium subscribers, making music and podcasts available during flights, commutes, or areas with limited connectivity. Crossfade, gapless playback, and various audio quality settings ensure optimal listening experiences tailored to your preferences and network conditions.\n\nSpotify has become an essential platform for artists and creators through tools like Spotify for Artists, which provides valuable insights into listener demographics and streaming patterns. The platform's playlist ecosystem, including both algorithmic and human-curated playlists, has become a powerful discovery mechanism that can launch careers and shape musical trends. Podcast creators benefit from Spotify's exclusive distribution deals, advertising marketplace, and interactive features like polls and Q&A sessions within the app.\n\nAs audio consumption habits evolve, Spotify continues to innovate with features like Spotify Wrapped that provides personalized year-end listening statistics, collaborative playlists for shared music discovery, and live audio capabilities through Greenroom. The platform's commitment to audio excellence, combined with its data-driven personalization and social features, has cemented its position as the leading audio streaming service that understands and adapts to how we want to experience sound in our daily lives."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/youtube-play.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Watch, stream, and share videos",
+    "size": 145,
+    "reviews": "185M",
+    "ratingAvg": 4.2,
+    "downloads": "7B+",
+    "ratings": [
+      { "name": "1 star", "count": "7.5M" },
+      { "name": "2 star", "count": "5.5M" },
+      { "name": "3 star", "count": "20M" },
+      { "name": "4 star", "count": "45M" },
+      { "name": "5 star", "count": "112M" }
+    ],
+    "details": "YouTube has revolutionized how we consume video content, transforming from a simple video-sharing platform into the world's second-largest search engine and a cultural phenomenon that has reshaped entertainment, education, and global communication. With over 500 hours of content uploaded every minute, YouTube offers an virtually limitless library of videos spanning every conceivable topic, from professional tutorials and academic lectures to music videos, vlogs, and independent filmmaking. The platform's sophisticated recommendation system uses advanced machine learning to personalize your viewing experience, suggesting content that aligns with your interests while helping creators reach their ideal audiences.\n\nThe platform has democratized content creation, enabling anyone with a camera and internet connection to build a global audience and potentially earn a living through the YouTube Partner Program. This creator economy has spawned new forms of entertainment and education, with YouTubers becoming influential figures in fields ranging from science communication and political commentary to gaming and lifestyle content. YouTube's multi-tier monetization system, including advertising, channel memberships, Super Chat, and merchandise integration, provides creators with diverse revenue streams to support their work.\n\nYouTube's impact extends beyond entertainment to education and skill development. YouTube Learning brings structured educational content to millions of users worldwide, while platforms like YouTube Kids provide a safe, curated environment for younger audiences. Features like timestamped comments, chapter markers, and interactive end screens enhance the viewing experience, making it easier to navigate long-form content and engage with communities around specific videos.\n\nAs video continues to dominate digital consumption, YouTube remains at the forefront of innovation with features like YouTube Shorts for vertical video, live streaming capabilities that rival traditional broadcast, and VR180 content for immersive experiences. The platform's global reach and cultural significance make it an essential tool for creators, educators, businesses, and viewers alike, continuing to push the boundaries of what's possible in digital video distribution and community building."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/twitter--v1.png",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "id": 7,
+    "description": "See what's happening in the world",
+    "size": 73,
+    "reviews": "52M",
+    "ratingAvg": 3.9,
+    "downloads": "2B+",
+    "ratings": [
+      { "name": "1 star", "count": "4.8M" },
+      { "name": "2 star", "count": "3.8M" },
+      { "name": "3 star", "count": "11M" },
+      { "name": "4 star", "count": "15M" },
+      { "name": "5 star", "count": "25M" }
+    ],
+    "details": "Twitter has established itself as the world's digital public square, a real-time information network where news breaks, conversations unfold, and global communities form around shared interests and current events. The platform's defining characteristic is its brevity—originally 140 characters, now 280—forcing users to distill their thoughts into concise, impactful messages. This constraint has spawned new forms of communication, from viral memes and hashtag movements to threaded storytelling and rapid-fire commentary on unfolding events.\n\nThe platform serves as an invaluable tool for journalists, activists, politicians, and citizens to stay informed about breaking news as it happens. During natural disasters, political upheavals, and cultural moments, Twitter becomes the go-to source for real-time updates, eyewitness accounts, and official statements. The trending topics feature provides a pulse on what the world is discussing, while lists and advanced search capabilities allow users to curate their information intake with precision.\n\nTwitter's role in facilitating public discourse comes with significant challenges around moderation and healthy conversation. The platform has implemented various features to address these issues, including conversation controls, warning labels on misleading information, and tools to limit unwanted interactions. Spaces, Twitter's audio chat feature, has added a new dimension to the platform, enabling real-time voice conversations that complement the text-based timeline.\n\nDespite facing criticism and competition, Twitter remains uniquely positioned as a platform for public conversation and information dissemination. Its open nature, combined with features like retweets, quote tweets, and embedded media, creates a dynamic ecosystem where ideas spread rapidly and conversations can scale from intimate discussions to global movements in moments. For better or worse, Twitter has become an essential window into the zeitgeist, capturing the pulse of global conversation in real-time."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/facebook-new.png",
+    "title": "Facebook",
+    "companyName": "Facebook",
+    "id": 8,
+    "description": "Connect with friends and family",
+    "size": 156,
+    "reviews": "115M",
+    "ratingAvg": 3.8,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": "9.8M" },
+      { "name": "2 star", "count": "7.2M" },
+      { "name": "3 star", "count": "22M" },
+      { "name": "4 star", "count": "30M" },
+      { "name": "5 star", "count": "52M" }
+    ],
+    "details": "Facebook pioneered the modern social networking landscape, growing from a college campus directory to a global platform connecting nearly three billion users across every continent. At its core, Facebook helps maintain relationships with people you know in real life, providing a digital space to share life updates, photos, memories, and milestones. The News Feed algorithm curates content from friends, family, and followed pages, creating a personalized stream of updates that keeps users connected to their social circles.\n\nThe platform's Groups feature has become one of its most valuable aspects, enabling communities to form around shared interests, locations, experiences, or causes. From neighborhood watch groups and parenting communities to hobbyist collectives and professional networks, these spaces facilitate meaningful interactions beyond one's immediate friend list. Facebook Events has similarly transformed how we organize gatherings, from small birthday parties to large-scale community events, with invitation tracking, discussion threads, and reminder systems.\n\nFacebook's Marketplace has emerged as a powerful competitor to dedicated e-commerce platforms, enabling local buying and selling with built-in trust mechanisms through user profiles and mutual connections. The platform's advertising tools provide businesses of all sizes with sophisticated targeting capabilities, while Pages offer free presence management for organizations, public figures, and brands seeking to engage with their audiences.\n\nDespite facing criticism around privacy, misinformation, and algorithmic transparency, Facebook continues to evolve with features like Safety Check during crises, fundraising tools for personal causes and nonprofits, and enhanced privacy controls. As the digital landscape fragments across multiple platforms, Facebook maintains its position as the comprehensive social utility that helps bridge online and offline relationships, serving as the foundational layer of many users' digital social lives."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/tiktok.png",
+    "title": "TikTok",
+    "companyName": "TikTok Ltd.",
+    "id": 9,
+    "description": "Real short videos that bring you joy",
+    "size": 198,
+    "reviews": "89M",
+    "ratingAvg": 4.0,
+    "downloads": "2B+",
+    "ratings": [
+      { "name": "1 star", "count": "3.2M" },
+      { "name": "2 star", "count": "2.5M" },
+      { "name": "3 star", "count": "12M" },
+      { "name": "4 star", "count": "25M" },
+      { "name": "5 star", "count": "55M" }
+    ],
+    "details": "TikTok has redefined short-form video entertainment, creating a cultural phenomenon that has transformed how content is created, consumed, and shared across generations. The platform's vertically-oriented, full-screen video format optimized for mobile viewing, combined with its incredibly sophisticated recommendation algorithm, creates an endlessly engaging experience that can feel both personalized and serendipitous. Unlike traditional social networks built on follower relationships, TikTok's 'For You' page introduces users to content based on engagement patterns and video attributes rather than social connections, democratizing discovery and enabling rapid virality.\n\nThe app's built-in creative tools have lowered barriers to content creation, with intuitive editing features, extensive music libraries, visual effects, and templates that allow anyone to produce polished videos without technical expertise. These tools have spawned new forms of creative expression, from dance challenges and comedy sketches to educational content and social commentary. The duet and stitch features encourage collaborative creation, while sounds and trends create shared cultural moments that spread across the platform.\n\nTikTok's impact extends beyond entertainment to education and commerce. #LearnOnTikTok has become a hub for knowledge sharing across academic subjects, practical skills, and professional development. Meanwhile, TikTok Shopping has transformed the platform into a powerful e-commerce channel, with creators able to tag products directly in videos and live streams. The platform's live streaming capabilities support real-time interaction between creators and their communities, with virtual gifting creating new monetization opportunities.\n\nAs TikTok continues to evolve, it faces challenges around data privacy, content moderation, and screen time management. However, its fundamental appeal—the combination of effortless discovery, creative empowerment, and authentic connection—has cemented its position as a dominant force in digital culture. From launching musical careers to driving social movements and reshaping marketing, TikTok has proven that short-form video is not just a format but a new language for digital expression and connection."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/amazon.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 10,
+    "description": "Shop millions of products online",
+    "size": 112,
+    "reviews": "76M",
+    "ratingAvg": 4.3,
+    "downloads": "2B+",
+    "ratings": [
+      { "name": "1 star", "count": "2.2M" },
+      { "name": "2 star", "count": "1.8M" },
+      { "name": "3 star", "count": "9M" },
+      { "name": "4 star", "count": "22M" },
+      { "name": "5 star", "count": "48M" }
+    ],
+    "details": "The Amazon Shopping app brings the world's most comprehensive e-commerce platform to your mobile device, offering unparalleled convenience, selection, and speed in online retail. With access to hundreds of millions of products across every category imaginable—from everyday essentials to specialty items—the app serves as a virtual shopping mall in your pocket. Amazon's sophisticated recommendation engine personalizes the shopping experience based on your browsing history, purchase patterns, and expressed preferences, helping you discover products you'll love while streamlining repeat purchases.\n\nThe app's seamless integration with Amazon's ecosystem creates a cohesive shopping experience across devices and services. Alexa integration allows voice shopping and quick reordering, while the barcode scanner enables instant price comparisons and product lookup in physical stores. One-Click ordering eliminates friction from the purchase process, and Amazon Pay streamlines checkout across third-party websites and apps. Real-time order tracking, delivery notifications, and photo confirmation of package delivery keep you informed every step of the way.\n\nAmazon's customer-centric features extend beyond the purchase itself. Comprehensive product reviews and ratings from verified purchasers provide social proof and detailed insights, while Q&A sections allow direct interaction with other customers and sellers. The augmented reality view lets you visualize how products will look in your space before buying, and subscription options automate recurring purchases of frequently used items. Returns and refunds are handled seamlessly within the app, with printable labels and pickup options that minimize hassle.\n\nAs mobile commerce continues to grow, the Amazon Shopping app remains at the forefront with innovations like Amazon Live for interactive shopping experiences, visual search capabilities, and integration with Amazon's physical retail initiatives. Whether you're comparison shopping, researching products, or making impulse purchases, the app delivers a retail experience that combines the vast selection of online shopping with the convenience and immediacy of mobile technology, fundamentally changing how we think about and execute our shopping needs."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/google-photos.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 11,
+    "description": "Store, organize, and share your photos",
+    "size": 84,
+    "reviews": "63M",
+    "ratingAvg": 4.6,
+    "downloads": "3B+",
+    "ratings": [
+      { "name": "1 star", "count": "900K" },
+      { "name": "2 star", "count": "700K" },
+      { "name": "3 star", "count": "4M" },
+      { "name": "4 star", "count": "15M" },
+      { "name": "5 star", "count": "48M" }
+    ],
+    "details": "Google Photos has revolutionized how we store, organize, and relive our precious memories, transforming from a simple photo backup service into an intelligent visual memory platform. The app's standout feature is its generous storage policy—while high-quality backup now counts against Google Drive storage, the platform still offers powerful organization and sharing capabilities that make managing thousands of photos surprisingly effortless. Automatic backup ensures your memories are safely stored in the cloud, protected from device loss, damage, or upgrade, while smart storage management helps free up space on your device by removing safely backed-up photos.\n\nThe true magic of Google Photos lies in its AI-powered organization and search capabilities. Using advanced machine learning, the app automatically recognizes faces, objects, locations, and events, creating a searchable database of your visual memories. You can find photos by searching for 'beach,' 'birthday cake,' or even specific people's names, with astonishing accuracy. The app automatically creates albums around trips and events, generates animations from similar shots, and surfaces ' memories' from previous years, helping you rediscover forgotten moments.\n\nSharing has been reimagined through features like shared albums that multiple people can contribute to, partner sharing that automatically exchanges photos of selected people, and live albums that update in real-time as new photos are added. The app's editing tools rival dedicated photo editors, with suggestions for enhancements, selective adjustments, and creative filters. Google Lens integration allows you to search the web for information about objects in your photos, copy text from images, or identify landmarks.\n\nAs we generate more visual content than ever before, Google Photos serves as the intelligent curator of our digital memories. Its combination of robust backup, intelligent organization, effortless sharing, and creative tools has made it an indispensable part of the modern digital experience. Whether you're a casual photographer documenting everyday life or someone with decades of photos to organize, Google Photos brings order to the chaos of digital imagery while helping your most meaningful moments shine."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/google-maps.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 12,
+    "description": "Navigation and local discovery",
+    "size": 125,
+    "reviews": "95M",
+    "ratingAvg": 4.4,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": "2.1M" },
+      { "name": "2 star", "count": "1.5M" },
+      { "name": "3 star", "count": "8M" },
+      { "name": "4 star", "count": "25M" },
+      { "name": "5 star", "count": "65M" }
+    ],
+    "details": "Google Maps has fundamentally transformed how we navigate the world, evolving from a simple digital map into a comprehensive location intelligence platform that guides billions of users through both familiar and unfamiliar territory. The app provides incredibly accurate turn-by-turn navigation for driving, walking, cycling, and public transportation, with real-time traffic updates that automatically reroute you around congestion, accidents, and road closures. The platform's extensive database includes detailed information about millions of businesses, landmarks, and points of interest, complete with hours of operation, contact information, photos, and user reviews.\n\nBeyond basic navigation, Google Maps serves as an essential tool for local discovery and exploration. The Explore feature helps you find highly-rated restaurants, attractions, and activities in any area, with filters for price, distance, and specific amenities. Indoor maps for airports, shopping malls, and transit stations provide orientation in complex spaces, while Street View offers ground-level perspectives that help you recognize destinations before you arrive. Saved places allow you to bookmark locations for future reference, creating personalized maps of your favorite spots and planned itineraries.\n\nThe platform's contribution features enable users to improve the map for everyone by adding missing places, correcting information, answering questions, and uploading photos. Local Guides programs incentivize these contributions through a points system and exclusive benefits. For businesses, Google Maps provides valuable visibility through Google My Business, enabling owners to manage their online presence, respond to reviews, and showcase their products and services to potential customers.\n\nAs location technology advances, Google Maps continues to innovate with features like Live View that uses augmented reality to overlay directions onto the real world, eco-friendly routing that suggests more fuel-efficient paths, and detailed information about wheelchair-accessible locations. The platform's integration with the broader Google ecosystem, including Calendar, Gmail, and Assistant, creates a seamless experience that anticipates your travel needs. From daily commutes to international adventures, Google Maps has become an indispensable companion that makes the world more navigable and discoverable for everyone."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/gmail.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 13,
+    "description": "Secure business email platform",
+    "size": 68,
+    "reviews": "88M",
+    "ratingAvg": 4.5,
+    "downloads": "6B+",
+    "ratings": [
+      { "name": "1 star", "count": "1.8M" },
+      { "name": "2 star", "count": "1.2M" },
+      { "name": "3 star", "count": "7M" },
+      { "name": "4 star", "count": "22M" },
+      { "name": "5 star", "count": "60M" }
+    ],
+    "details": "Gmail has redefined email communication by combining powerful organization features with robust security and seamless integration across Google's ecosystem. The platform's intuitive interface makes managing high volumes of email surprisingly efficient, with automatic categorization into Primary, Social, and Promotions tabs that help prioritize important messages while reducing inbox clutter. Gmail's industry-leading spam filtering effectively blocks unwanted messages, while suspicious email warnings and phishing protection safeguard users from potential security threats. The platform's generous 15GB of free storage (shared with Google Drive and Photos) ensures most users never need to worry about deleting messages to free up space.\n\nThe app's powerful search functionality leverages Google's expertise in information retrieval, enabling users to find specific emails quickly using natural language queries, sender names, date ranges, and attachment types. Smart Compose and Smart Reply features use artificial intelligence to suggest complete sentences and quick responses, saving time on routine communications. Scheduling send, undo send, and snooze options provide greater control over when emails are delivered and when they reappear in your inbox, aligning email management with your workflow preferences.\n\nGmail's integration with other Google services creates a cohesive productivity environment. Direct access to Google Drive allows easy attachment of files without downloading them first, while Calendar integration enables one-click event creation from emails containing date and time information. Google Meet integration facilitates instant video meetings, and Tasks management helps track action items mentioned in emails. For power users, keyboard shortcuts, multiple inbox views, and sophisticated filtering rules provide additional efficiency gains.\n\nAs workplace communication evolves, Gmail continues to adapt with features like confidential mode that prevents forwarding and sets expiration dates, email templates for frequently sent messages, and offline capability that syncs changes when connectivity is restored. The platform's robust API supports extensive third-party integrations, while its enterprise-grade security and compliance features make it suitable for organizations of all sizes. From personal communication to business correspondence, Gmail remains the gold standard in email by continuously innovating while maintaining the reliability and simplicity that made it revolutionary from the start."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/microsoft-outlook-2019.png",
+    "title": "Microsoft Outlook",
+    "companyName": "Microsoft Corporation",
+    "id": 14,
+    "description": "Email and calendar management",
+    "size": 145,
+    "reviews": "42M",
+    "ratingAvg": 4.3,
+    "downloads": "700M+",
+    "ratings": [
+      { "name": "1 star", "count": "1.5M" },
+      { "name": "2 star", "count": "1.1M" },
+      { "name": "3 star", "count": "6M" },
+      { "name": "4 star", "count": "12M" },
+      { "name": "5 star", "count": "25M" }
+    ],
+    "details": "Microsoft Outlook provides a comprehensive email and productivity management solution that seamlessly integrates email, calendar, contacts, and tasks into a unified interface. The app supports multiple account types including Outlook.com, Exchange, Office 365, Gmail, iCloud, and Yahoo Mail, allowing users to manage all their email accounts from a single application. Outlook's Focused Inbox automatically separates important messages from less urgent ones, helping users prioritize their attention while reducing distraction from newsletters, social notifications, and promotional emails. The platform's enterprise-grade security features, including advanced threat protection and data loss prevention, make it particularly valuable for business users and organizations.\n\nThe calendar functionality represents one of Outlook's strongest features, offering sophisticated scheduling capabilities that streamline meeting coordination across time zones and organizations. The scheduling assistant helps find optimal meeting times by analyzing participants' availability, while room and equipment booking integration simplifies resource management. Calendar sharing enables collaborative scheduling within teams, and the weather integration provides context for planning outdoor activities or travel. The ability to view multiple calendars side-by-side and overlay them for comparison makes managing complex schedules remarkably intuitive.\n\nOutlook's file management capabilities create a seamless connection between email and cloud storage. Direct integration with OneDrive, SharePoint, and Dropbox allows users to attach files as cloud links rather than large attachments, reducing mailbox size and ensuring recipients always access the most current version. The action-based triage system lets users quickly sweep through their inbox by archiving, deleting, or scheduling emails for later attention. Quick Steps automate common email processing tasks, while rules provide powerful automation for message organization.\n\nAs remote work becomes increasingly common, Outlook continues to enhance its collaboration features with Microsoft Teams integration for instant messaging and video meetings, @mentions that draw specific colleagues' attention to important messages, and voting buttons that streamline group decision-making. The mobile app's offline capability ensures access to critical information even without internet connectivity, while its customizable swipe gestures enable rapid inbox management. For professionals balancing multiple responsibilities across email, scheduling, and task management, Outlook delivers an integrated productivity experience that reduces context-switching and helps maintain organizational efficiency in an increasingly complex digital workplace."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 15,
+    "description": "Video conferencing and meetings",
+    "size": 156,
+    "reviews": "38M",
+    "ratingAvg": 4.2,
+    "downloads": "300M+",
+    "ratings": [
+      { "name": "1 star", "count": "1.8M" },
+      { "name": "2 star", "count": "1.4M" },
+      { "name": "3 star", "count": "5M" },
+      { "name": "4 star", "count": "10M" },
+      { "name": "5 star", "count": "25M" }
+    ],
+    "details": "Zoom emerged as the definitive video conferencing platform during the global shift to remote work and virtual connection, distinguished by its remarkable reliability, ease of use, and consistent performance across varying network conditions. The platform's intuitive interface makes joining meetings effortless for participants of all technical skill levels, with one-click access from desktop and mobile devices. Zoom's robust video and audio quality maintains clarity even on slower internet connections, while its gallery and speaker views adapt to different meeting contexts from one-on-one conversations to large webinars. The platform's scalability accommodates everything from quick team check-ins to enterprise-wide all-hands meetings with thousands of participants.\n\nThe app's collaboration features transform video meetings into interactive working sessions. Screen sharing supports multiple participants simultaneously, with options to share specific applications, whiteboards, or portions of your screen. Co-annotation capabilities allow meeting attendees to mark up shared content collaboratively, while remote control permission enables technical support and guided demonstrations. Breakout rooms facilitate small group discussions within larger meetings, automatically distributing participants and managing time limits before reuniting the main session. The recording feature captures meetings locally or to the cloud, with automatic transcription generating searchable text from audio content.\n\nZoom's security features have evolved significantly to address the privacy concerns of widespread video conferencing adoption. Waiting rooms prevent unauthorized entry, passcode requirements add authentication layers, and end-to-end encryption ensures confidential conversations remain private. Host controls enable management of participant capabilities including screen sharing, chat permissions, and renaming privileges. The platform's compliance with various regulatory standards makes it suitable for industries with strict data protection requirements including healthcare, education, and finance.\n\nAs hybrid work becomes standard, Zoom continues to expand its ecosystem with features like Zoom Phone for integrated business telephony, Zoom Events for virtual conferences, and Zoom Apps that embed third-party tools directly within meetings. The platform's hardware integration through Zoom Rooms creates seamless experiences for conference room setups, while its API and SDK support extensive customization and embedding within other applications. From virtual family gatherings to international business negotiations, Zoom has proven that well-executed video communication can effectively bridge physical distance, making it an essential infrastructure for the modern connected world."
+  },
+  {
+    "image": "https://yt3.googleusercontent.com/kpfvYzDJ8pT6S8SuXGf3PKM4jGB7UYqTfyp3aNbRAqoMVMX4qb4lWCWk1ezhf-olBhYYJCnBsA=s900-c-k-c0x00ffffff-no-rj",
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "id": 16,
+    "description": "Ride sharing and food delivery",
+    "size": 198,
+    "reviews": "75M",
+    "ratingAvg": 4.0,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": "3.5M" },
+      { "name": "2 star", "count": "2.8M" },
+      { "name": "3 star", "count": "12M" },
+      { "name": "4 star", "count": "20M" },
+      { "name": "5 star", "count": "42M" }
+    ],
+    "details": "Uber has fundamentally transformed urban transportation by creating a seamless platform that connects riders with drivers through sophisticated matching algorithms and real-time GPS tracking. The app's intuitive interface makes requesting rides remarkably simple—just set your pickup location and destination, choose your vehicle type, and confirm your request. Uber's dynamic pricing model adjusts fares based on real-time supply and demand, ensuring availability even during peak times while providing transparency about costs before you confirm your ride. The platform's extensive driver network means short wait times in most urban areas, with real-time tracking that shows your driver's location and estimated arrival time.\n\nThe cashless payment system represents one of Uber's most significant innovations, eliminating the friction of physical transactions and creating a seamless experience from ride request to drop-off. The app securely stores payment information and automatically charges trips, with detailed receipts emailed immediately after each ride. Rating systems for both drivers and passengers maintain accountability and service quality, while the trip sharing feature lets you notify friends or family about your ride status and estimated arrival time for added safety.\n\nUber has expanded beyond personal transportation to become a comprehensive mobility platform. Uber Eats leverages the same logistics technology to deliver restaurant meals to your doorstep, with real-time tracking showing your order's preparation and delivery progress. Uber Freight connects shippers with truckers, while Uber for Business provides managed transportation solutions for organizations. The platform's subscription services like Uber Pass and Eats Pass offer discounted rides and deliveries for frequent users, creating value through predictable monthly pricing.\n\nAs urban mobility evolves, Uber continues to innovate with features like Uber Green for electric vehicle rides, Uber Comfort for newer cars with extra legroom, and reservation options for scheduled trips. The integration of public transportation information in some cities helps users make multimodal journey decisions, while safety features like emergency assistance, ride check-ins, and PIN verification provide peace of mind. From revolutionizing how we hail rides to reshaping food delivery and future autonomous transportation, Uber's platform approach to mobility services has created new conveniences while challenging traditional transportation models worldwide."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/airbnb.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 17,
+    "description": "Vacation rentals and experiences",
+    "size": 145,
+    "reviews": "28M",
+    "ratingAvg": 4.6,
+    "downloads": "400M+",
+    "ratings": [
+      { "name": "1 star", "count": "800K" },
+      { "name": "2 star", "count": "600K" },
+      { "name": "3 star", "count": "3M" },
+      { "name": "4 star", "count": "8M" },
+      { "name": "5 star", "count": "18M" }
+    ],
+    "details": "Airbnb has redefined travel accommodation by creating a global marketplace that connects travelers with unique places to stay and local experiences, transforming how people explore destinations worldwide. The platform offers an extraordinary diversity of lodging options beyond traditional hotels, from spare rooms and entire apartments to castles, treehouses, and houseboats. Each listing includes detailed descriptions, high-quality photos, amenity information, and verified reviews from previous guests, providing comprehensive context for booking decisions. The secure messaging system enables direct communication with hosts before and during stays, facilitating coordination for check-in, local recommendations, and special requests.\n\nThe booking process balances flexibility with security through clear cancellation policies, secure payment processing, and host guarantees that protect property owners. The review system creates accountability for both guests and hosts, with double-blind publishing that ensures honest feedback without retaliation concerns. Wish lists allow users to save favorite properties for future trips, while the map-based search interface makes it easy to find accommodations in specific neighborhoods or near points of interest. Instant Book options streamline reservations for eligible properties, while booking requests provide hosts with guest information before confirming availability.\n\nAirbnb Experiences extends the platform beyond accommodation to activities hosted by local experts, offering everything from cooking classes and neighborhood tours to specialized workshops and outdoor adventures. These curated activities provide authentic cultural immersion that typical tourist attractions often lack, creating meaningful connections between travelers and local communities. Airbnb Plus and Airbnb Luxe tiers offer verified quality standards for premium properties, while Airbnb for Work provides specialized features for business travelers including expense management and company billing.\n\nAs travel preferences evolve, Airbnb continues to innovate with features like flexible search for spontaneous trips, online experiences that can be enjoyed remotely, and enhanced cleaning protocols that address health concerns. The platform's response to the COVID-19 pandemic included significant refunds for canceled trips and support for hosts facing unprecedented challenges. From enabling homeowners to generate supplemental income to providing travelers with more authentic and affordable accommodation options, Airbnb has not just created a business but fostered a global community that reimagines what travel can be—more personal, more diverse, and more connected to local cultures."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/pinterest.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 18,
+    "description": "Discover and save creative ideas",
+    "size": 112,
+    "reviews": "35M",
+    "ratingAvg": 4.3,
+    "downloads": "600M+",
+    "ratings": [
+      { "name": "1 star", "count": "1.2M" },
+      { "name": "2 star", "count": "900K" },
+      { "name": "3 star", "count": "5M" },
+      { "name": "4 star", "count": "10M" },
+      { "name": "5 star", "count": "22M" }
+    ],
+    "details": "Pinterest serves as a visual discovery engine that helps users find inspiration and organize ideas for virtually every aspect of their lives, from home decor and fashion to recipes and travel planning. The platform's core functionality revolves around Pins—visual bookmarks that users save to thematic Boards for future reference. Each Pin links back to its original source, creating a bridge between inspiration and action while driving significant traffic to content creators, retailers, and publishers. The infinite scroll interface encourages exploratory browsing, with the algorithm surfacing increasingly relevant content based on your saving and engagement patterns.\n\nThe visual search technology represents one of Pinterest's most innovative features, allowing users to search using images rather than keywords. You can select specific elements within a photo to find similar items, patterns, or colors, making it remarkably effective for identifying hard-to-describe visual elements. Lens capability extends this functionality to the real world through your phone's camera, enabling you to discover ideas inspired by objects, settings, or styles you encounter in physical environments. Shop the Look identifies purchasable products within inspiration images, creating a seamless path from visual discovery to transaction.\n\nPinterest's organizational structure through Boards and Sections helps users curate their interests in a meaningful way. You can create private boards for personal projects or public boards to share expertise with followers. The collaborative boards feature enables multiple users to contribute to a shared collection of ideas, making it valuable for group projects like wedding planning, team brainstorming, or family vacation preparation. Rich Pins provide additional context like real-time pricing, inventory availability, or recipe ingredients directly within the Pin itself.\n\nAs the platform evolves, Pinterest continues to enhance its utility with features like Idea Pins for multi-page visual storytelling, Try On for virtual product testing using augmented reality, and Pinterest TV for live streaming shopping and tutorials. The platform's positive, forward-looking nature distinguishes it from other social networks, focusing on future plans and aspirations rather than past experiences or social validation. From DIY enthusiasts to professional designers, wedding planners to small business owners, Pinterest has become an essential tool for visual research, creative organization, and turning inspiration into reality across countless domains of personal and professional interest."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 19,
+    "description": "Professional networking and jobs",
+    "size": 135,
+    "reviews": "48M",
+    "ratingAvg": 4.1,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "1 star", "count": "2.5M" },
+      { "name": "2 star", "count": "1.8M" },
+      { "name": "3 star", "count": "8M" },
+      { "name": "4 star", "count": "15M" },
+      { "name": "5 star", "count": "25M" }
+    ],
+    "details": "LinkedIn has established itself as the world's premier professional network, creating an ecosystem that connects talent with opportunity across industries, experience levels, and geographic boundaries. The platform's core functionality centers around digital professional profiles that serve as dynamic CVs, showcasing work experience, education, skills, accomplishments, and recommendations. Unlike traditional resumes, LinkedIn profiles are living documents that can be continuously updated and enriched with multimedia content, publications, projects, and certifications. The network effect creates professional visibility beyond immediate connections, with profile views and search appearances providing valuable feedback about your professional brand's reach and impact.\n\nThe job search capabilities represent one of LinkedIn's most powerful features, with an extensive database of opportunities ranging from entry-level positions to executive roles. The Easy Apply functionality streamlines applications for participating employers, while saved searches and alerts ensure you don't miss relevant opportunities. The platform's salary insights provide compensation context for specific roles and locations, while company pages offer valuable intelligence about organizational culture, employee perspectives, and business developments. LinkedIn Learning integration creates a direct connection between skill development and career advancement, with course completion certificates that can be displayed on your profile.\n\nContent sharing and engagement on LinkedIn have transformed the platform into a professional publishing venue where industry insights, company news, and career advice reach targeted audiences. The algorithm prioritizes professional content that generates meaningful discussion, with LinkedIn Pulse originally pioneering native article publishing on the platform. Groups facilitate specialized discussions within professional communities, while hashtags help content reach beyond immediate connections to interested professionals worldwide. The messaging system enables direct communication between members, with InMail providing access to individuals outside your network.\n\nAs the professional landscape evolves, LinkedIn continues to expand its capabilities with features like LinkedIn Live for professional broadcasting, LinkedIn Events for virtual and in-person professional gatherings, and LinkedIn Stories for informal professional updates. The platform's sales and marketing solutions provide businesses with sophisticated tools for lead generation, brand building, and talent acquisition. From recent graduates building their professional networks to executives managing their industry influence, LinkedIn has become an indispensable platform for career development, professional learning, business intelligence, and opportunity discovery in the digital age."
+  },
+  {
+    "image": "https://img.icons8.com/color/512/snapchat.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 20,
+    "description": "Fun messaging with disappearing content",
+    "size": 205,
+    "reviews": "52M",
+    "ratingAvg": 3.9,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": "3.8M" },
+      { "name": "2 star", "count": "2.9M" },
+      { "name": "3 star", "count": "10M" },
+      { "name": "4 star", "count": "15M" },
+      { "name": "5 star", "count": "25M" }
+    ],
+    "details": "Snapchat pioneered ephemeral messaging and revolutionized how younger generations communicate by prioritizing spontaneous, in-the-moment sharing over permanent curation. The app's core premise—that photos, videos, and messages disappear after viewing—creates a low-pressure environment for authentic communication without the permanence concerns of traditional social platforms. This approach has proven particularly appealing to younger users who value privacy and impermanence in their digital interactions. The platform's signature features including Stories (collections of snaps that expire after 24 hours), Filters (contextual overlays that transform your appearance or environment), and Lenses (augmented reality experiences that respond to facial movements and expressions) have been widely adopted across the social media landscape.\n\nThe Camera-first philosophy makes Snapchat unique among social platforms, treating the camera as the primary interface rather than a secondary feature. The app opens directly to the camera view, encouraging immediate creation and sharing. Sophisticated computer vision technology enables the platform's famous augmented reality experiences, from puppy ears and flower crowns that track facial movements to world lenses that transform physical environments. Snap Map allows friends to share their locations with each other, creating opportunities for spontaneous meetups while providing privacy controls that limit visibility to selected friends or enable ghost mode.\n\nSnapchat's Discover section provides a platform for media companies, creators, and influencers to share content in the app's distinctive vertical video format. This curated environment combines entertainment, news, and lifestyle content from established publishers alongside individual creators, with advertising integrated seamlessly between stories. The platform's original shows and publisher partnerships have created a robust content ecosystem that complements the personal communication features. For creators, Spotlight provides a TikTok-like destination for user-generated content with monetary incentives for viral videos.\n\nAs the platform matures, Snapchat has expanded its utility with features like Snap Games for lightweight multiplayer gaming, Scan for visual search and problem-solving, and Memories for saving special snaps without sharing them immediately. The platform's commitment to user privacy includes notifications when someone takes a screenshot and view receipts that show who has seen your content. From its beginnings as a controversial disappearing photo app to its current status as a multimedia messaging platform with sophisticated AR capabilities, Snapchat has maintained its distinctive identity by consistently prioritizing playful, visual communication that reflects how friends actually interact rather than how they present themselves professionally or permanently to the world."
+  }
+]
