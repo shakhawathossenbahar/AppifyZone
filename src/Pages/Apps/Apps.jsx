@@ -16,6 +16,7 @@ const Apps = () => {
   const data = useLoaderData();
   const [Cards, setCard] = useState([]);
 
+  // Dynamic hook
   useEffect(() => {
     setCard(data);
   }, [data]);
