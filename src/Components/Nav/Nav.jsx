@@ -89,7 +89,7 @@ const Nav = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <Link to={"https://github.com/rong-rubaiya"}>
+        <Link to={"https://github.com/shakhawathossenbahar"}>
           <button className="btn text-base bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white">
             {" "}
             <FaGithub />

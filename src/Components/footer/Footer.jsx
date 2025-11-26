@@ -47,7 +47,6 @@ const Footer = () => {
         <p>
           <span className="font-semibold">AppifyZone</span>. All rights reserved.  
         </p>
-        <p className="mt-1 italic text-gray-200">Crafted with ❤️ by Rubaiya Hamid Rongkoni</p>
       </div>
           
 

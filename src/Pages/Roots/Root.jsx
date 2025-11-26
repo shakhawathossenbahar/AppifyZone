@@ -9,7 +9,7 @@ const Root = () => {
   const isNavigating = Boolean(navigation.location);
 
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="">
       
       <Nav />
       {isNavigating && <Loader />}
