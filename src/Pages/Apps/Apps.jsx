@@ -1,13 +1,12 @@
-import React, { Suspense, useEffect, useState } from 'react';
-import { FiSearch } from 'react-icons/fi';
-import { useLoaderData, useLocation } from 'react-router-dom';
-import AppsCard from '../../Components/appsCard/AppsCard';
-import NoApps from '../../Components/appsCard/NoApps';
-import Loader from '../../Components/Loader/Loader';
-import SearchNoApp from '../../Components/searchappnotfound/SearchNoApp';
+import React, { Suspense, useEffect, useState } from "react";
+import { FiSearch } from "react-icons/fi";
+import { useLoaderData, useLocation } from "react-router-dom";
+import AppsCard from "../../Components/appsCard/AppsCard";
+import NoApps from "../../Components/appsCard/NoApps";
+import Loader from "../../Components/Loader/Loader";
+import SearchNoApp from "../../Components/searchappnotfound/SearchNoApp";
 
 const Apps = () => {
-  
   const { pathname } = useLocation();
 
   useEffect(() => {
@@ -21,47 +20,46 @@ const Apps = () => {
     setCard(data);
   }, [data]);
 
-
-  const [search, setsearch] = useState('');
-  const [loading,setloading]=useState(false);
+  const [search, setsearch] = useState("");
+  const [loading, setloading] = useState(false);
   const term = search.trim().toLowerCase();
 
-
   const searchedApps = term
-    ? Cards.filter(Card => Card.title.toLowerCase().includes(term))
+    ? Cards.filter((Card) => Card.title.toLowerCase().includes(term))
     : Cards;
-useEffect(() => {
-  if (search.trim() === '') {
-    setloading(false);
-    return;
-  }
+  useEffect(() => {
+    if (search.trim() === "") {
+      setloading(false);
+      return;
+    }
 
-  setloading(true);
+    setloading(true);
 
-  const timer = setTimeout(() => {
-   setloading(false);
-  }, 1000); 
+    const timer = setTimeout(() => {
+      setloading(false);
+    }, 1000);
 
-  return () => clearTimeout(timer);
-}, [search]);
+    return () => clearTimeout(timer);
+  }, [search]);
 
   return (
-    <div className='bg-[#FAFAFA] mb-10'>
+    <div className="bg-[#FAFAFA] mb-10">
+      {searchedApps.length > 0 && (
+        <>
+          <div className="pt-[85px] w-full flex flex-col justify-center text-center px-5">
+            <h1 className="text-3xl md:text-5xl font-bold">
+              Our All Applications
+            </h1>
+            <p className="pt-5 pb-10 text-gray-400">
+              Explore All Apps on the Market developed by us. We code for
+              Millions
+            </p>
+          </div>
+        </>
+      )}
 
-     {searchedApps.length>0 &&(
-      <>
-       <div className='pt-[85px] w-full flex flex-col justify-center text-center px-5'>
-        <h1 className='text-3xl md:text-5xl font-bold'>Our All Applications</h1>
-        <p className='pt-5 pb-10 text-gray-400'>
-          Explore All Apps on the Market developed by us. We code for Millions
-        </p>
-      </div>
-
-      </>
-     )}
-
-      <div className='max-w-[1400px] mx-auto flex flex-col sm:flex-row justify-center items-center sm:justify-between my-12 px-5 bg-[#FAFAFA] pt-8'>
-        <span className='font-semibold pb-3 sm:pb-0'>
+      <div className="max-w-[1400px] mx-auto flex flex-col sm:flex-row justify-center items-center sm:justify-between my-12 px-5 bg-[#FAFAFA] pt-8">
+        <span className="font-semibold pb-3 sm:pb-0">
           ({searchedApps.length}) Apps Found
         </span>
 
@@ -76,17 +74,22 @@ useEffect(() => {
           />
         </div>
       </div>
-      
 
-      <Suspense fallback={<span className="loading loading-bars loading-xl text-center"></span>}>
-        <div className='w-auto md:max-w-[1400px] mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-2 lg:gap-4'>
-          {loading?(<div className="w-auto sm:w-[768px] md:w-[1024px] lg:w-[1400px]">
-                  <Loader />
-                  </div>):
-          searchedApps.length===0?<SearchNoApp></SearchNoApp>:(
-          searchedApps.map((Card) => (
-            <AppsCard key={Card.id} Card={Card} />)
-          ))}
+      <Suspense
+        fallback={
+          <span className="loading loading-bars loading-xl text-center"></span>
+        }
+      >
+        <div className="w-auto md:max-w-[1400px] mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-2 lg:gap-4">
+          {loading ? (
+            <div className="w-auto sm:w-[768px] md:w-[1024px] lg:w-[1400px]">
+              <Loader />
+            </div>
+          ) : searchedApps.length === 0 ? (
+            <SearchNoApp></SearchNoApp>
+          ) : (
+            searchedApps.map((Card) => <AppsCard key={Card.id} Card={Card} />)
+          )}
         </div>
       </Suspense>
     </div>

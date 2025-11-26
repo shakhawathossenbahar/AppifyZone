@@ -7,7 +7,7 @@ const Home = () => {
   const Loaderdata = useLoaderData();
   const data = Loaderdata.slice(0, 8);
   return (
-    <div className="bg-[#FAFAFA] py-20 w-full ">
+    <div className="bg-[#FAFAFA] py-20 w-full">
       <Banner></Banner>
       <Card data={data}></Card>
     </div>
